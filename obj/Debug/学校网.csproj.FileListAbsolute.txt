@@ -1,0 +1,26 @@
+D:\Code\学校网\学校网\bin\Debug\学校网.exe.config
+D:\Code\学校网\学校网\bin\Debug\学校网.exe
+D:\Code\学校网\学校网\bin\Debug\学校网.pdb
+D:\Code\学校网\学校网\bin\Debug\Newtonsoft.Json.dll
+D:\Code\学校网\学校网\bin\Debug\Newtonsoft.Json.xml
+D:\Code\学校网\学校网\obj\Debug\学校网.csprojAssemblyReference.cache
+D:\Code\学校网\学校网\obj\Debug\学校网.Form1.resources
+D:\Code\学校网\学校网\obj\Debug\学校网.Properties.Resources.resources
+D:\Code\学校网\学校网\obj\Debug\学校网.csproj.GenerateResource.cache
+D:\Code\学校网\学校网\obj\Debug\学校网.csproj.CoreCompileInputs.cache
+D:\Code\学校网\学校网\obj\Debug\学校网.csproj.CopyComplete
+D:\Code\学校网\学校网\obj\Debug\学校网.exe
+D:\Code\学校网\学校网\obj\Debug\学校网.pdb
+D:\新建文件夹 (2)\bin\Debug\学校网.exe.config
+D:\新建文件夹 (2)\bin\Debug\学校网.exe
+D:\新建文件夹 (2)\bin\Debug\学校网.pdb
+D:\新建文件夹 (2)\bin\Debug\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\bin\Debug\Newtonsoft.Json.xml
+D:\新建文件夹 (2)\obj\Debug\学校网.csproj.AssemblyReference.cache
+D:\新建文件夹 (2)\obj\Debug\学校网.Form1.resources
+D:\新建文件夹 (2)\obj\Debug\学校网.Properties.Resources.resources
+D:\新建文件夹 (2)\obj\Debug\学校网.csproj.GenerateResource.cache
+D:\新建文件夹 (2)\obj\Debug\学校网.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (2)\obj\Debug\学校网.csproj.CopyComplete
+D:\新建文件夹 (2)\obj\Debug\学校网.exe
+D:\新建文件夹 (2)\obj\Debug\学校网.pdb
