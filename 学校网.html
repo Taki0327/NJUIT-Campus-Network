@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+var httpRequest = new XMLHttpRequest();
+httpRequest.open('POST', 'http://10.255.200.11/api/portal/v1/login', true); 
+httpRequest.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+var obj = {"domain":"输入运营商标识：cmcc","username":"输入学号","password":"输入密码"};
+httpRequest.send(JSON.stringify(obj));
+</script>
+<style>
+
+</style>
+<body>
+  
+</body>
+</html>
